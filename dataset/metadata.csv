@@ -1,0 +1,118 @@
+id,name,category,price,description,brand,color,image_path,image_hash
+1,AirPods Sport,electronique,1207.49,AirPods Sport avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,blanc,electronique/airpods_01.jpg,2aa62878ce189d63dae23beeafba320e
+2,AirPods Casual,electronique,1503.99,AirPods Casual avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,blanc,electronique/airpods_02.jpg,662b76cfa6d7bd3d52a6852e50a56708
+3,AirPods Design,electronique,221.49,"AirPods Design haute performance, design moderne et ergonomique.",,bleu,electronique/airpods_03.jpg,9457fc6f715d12b4bf3eb721454723b7
+4,AirPods Classique,electronique,1207.99,"AirPods Classique avec les derniÃ¨res technologies, garantie constructeur incluse.",,bleu,electronique/airpods_04.jpg,62933be067fcbec3dc0ec341a32b54de
+5,AirPods Sport,electronique,1849.99,"AirPods Sport avec les derniÃ¨res technologies, garantie constructeur incluse.",,blanc,electronique/airpods_05.jpg,dea4b24798e2d2228b7014ae8c4c64ae
+6,AirPods Ã‰lÃ©gant,electronique,1122.49,"AirPods Ã‰lÃ©gant avec les derniÃ¨res technologies, garantie constructeur incluse.",,bleu,electronique/airpods_06.jpg,eaa46d9b2cd8d98a870a53a35e20e030
+7,AirPods Casual,electronique,1937.99,"AirPods Casual avec les derniÃ¨res technologies, garantie constructeur incluse.",,bleu,electronique/airpods_07.jpg,e6a2ae222a4208a3ab7037df7fe62d6e
+8,AirPods Classique,electronique,1743.99,"AirPods Classique avec les derniÃ¨res technologies, garantie constructeur incluse.",,vert,electronique/airpods_08.jpg,dd1ac44d34662b1016a1e1ceea8f44f0
+9,Appareil photo Sport,electronique,195.99,Appareil photo Sport avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,noir,electronique/camera_01.jpg,78877db944d26fa562f171f0f66d7a93
+10,Appareil photo Casual,electronique,1625.99,"Appareil photo Casual avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/camera_02.jpg,3008fb2145406349b0d390f180b3396f
+11,Appareil photo Classique,electronique,33.49,"Appareil photo Classique haute performance, design moderne et ergonomique.",,noir,electronique/camera_03.jpg,f663444a849d5505cdcc058a17cd01e4
+12,Appareil photo Classique,electronique,1846.99,"Appareil photo Classique haute performance, design moderne et ergonomique.",,noir,electronique/camera_04.jpg,ec0465f7692f90f888ae5610fa26c025
+13,Appareil photo Casual,electronique,1522.49,Appareil photo Casual avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,noir,electronique/camera_05.jpg,0eff63f491e38630f683f32c08340635
+14,Appareil photo Casual,electronique,561.49,"Appareil photo Casual haute performance, design moderne et ergonomique.",,blanc,electronique/camera_06.jpg,faa05e5af83d576f623977ac9fb4e075
+15,Appareil photo Sport,electronique,1298.99,Appareil photo Sport avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,blanc,electronique/camera_07.jpg,b0dc1ae71921938d2b1d1dba9d0b3081
+16,Appareil photo Moderne,electronique,1651.99,"Appareil photo Moderne avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/camera_08.jpg,e3db461d9c44806145302f288f9c34b2
+17,Casque audio Sport,electronique,1095.99,"Casque audio Sport avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/casque_01.jpg,53b2c35ca8d2d43c80072b7972bac0dd
+18,Casque audio Sport,electronique,1861.49,Casque audio Sport avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,bleu,electronique/casque_02.jpg,f95178f5a61bc93c930b16cd2da2c228
+19,Casque audio Moderne,electronique,1238.99,"Casque audio Moderne avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/casque_03.jpg,ef615ab14ed43791050c0235a0f50e0c
+20,Casque audio Moderne,electronique,328.99,"Casque audio Moderne haute performance, design moderne et ergonomique.",,noir,electronique/casque_04.jpg,957c2048d9775bc26f0ec0378cd5f14b
+21,Casque audio Design,electronique,248.99,"Casque audio Design avec les derniÃ¨res technologies, garantie constructeur incluse.",,rouge,electronique/casque_05.jpg,9496826c2c3d8b6b2fec196edd08bbdf
+22,Casque audio Classique,electronique,306.99,"Casque audio Classique haute performance, design moderne et ergonomique.",,gris,electronique/casque_06.jpg,25f3907059aca1843800711998c07c72
+23,Montre Classique,electronique,474.49,"Montre Classique avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/montre_01.jpg,69c7a1425cada6e8b0d2fcc84baec16e
+24,Montre Classique,electronique,812.99,Montre Classique avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,noir,electronique/montre_02.jpg,b94d5e299061145868ec72119876342c
+25,Montre Casual,electronique,50.49,"Montre Casual avec les derniÃ¨res technologies, garantie constructeur incluse.",,gris,electronique/montre_03.jpg,7c64554bae45c731a74436dd7f052f35
+26,Montre Ã‰lÃ©gant,electronique,1149.49,"Montre Ã‰lÃ©gant avec les derniÃ¨res technologies, garantie constructeur incluse.",,gris,electronique/montre_04.jpg,b17fbcba3f28d93da0f6f9e905ebc553
+27,Montre Moderne,electronique,1270.99,Montre Moderne avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,gris,electronique/montre_05.jpg,e71a04e70d087478a2e065334933b985
+28,Ordinateur portable Premium,electronique,252.49,"Ordinateur portable Premium haute performance, design moderne et ergonomique.",,gris,electronique/pc_01.jpg,fd56f4d583cbfe6abd55b4bc262e7b92
+29,Ordinateur portable Design,electronique,493.99,"Ordinateur portable Design avec les derniÃ¨res technologies, garantie constructeur incluse.",,gris,electronique/pc_02.jpg,3fa42782ac071baea0e7b799d5ca0685
+30,Ordinateur portable Sport,electronique,604.99,"Ordinateur portable Sport avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/pc_03.jpg,ede3106546f246df28afa3085ffc753f
+31,Ordinateur portable Casual,electronique,1339.99,"Ordinateur portable Casual avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/pc_04.jpg,362a0491fde47b15ebe1171fa09ba63d
+32,Ordinateur portable Moderne,electronique,738.99,"Ordinateur portable Moderne haute performance, design moderne et ergonomique.",,gris,electronique/pc_05.jpg,ee052393656385afd66397f6566bed78
+33,Ordinateur portable Design,electronique,479.99,"Ordinateur portable Design avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/pc_06.jpg,8ab6f2a44b9cb5a701c90cfb7ed51962
+34,Ordinateur portable Design,electronique,1037.49,"Ordinateur portable Design haute performance, design moderne et ergonomique.",,noir,electronique/pc_07.jpg,cb71276d27f508982abb267ef7f74e58
+35,TÃ©lÃ©phone Casual,electronique,266.49,"TÃ©lÃ©phone Casual haute performance, design moderne et ergonomique.",,noir,electronique/telephone_01.jpg,d69c745b1d837d409c5fa0bbb46e45e7
+36,TÃ©lÃ©phone Design,electronique,1264.49,"TÃ©lÃ©phone Design avec les derniÃ¨res technologies, garantie constructeur incluse.",,noir,electronique/telephone_02.jpg,908843023cd4eb7628ae56dddee20347
+37,TÃ©lÃ©phone Moderne,electronique,1907.49,"TÃ©lÃ©phone Moderne avec les derniÃ¨res technologies, garantie constructeur incluse.",,bleu,electronique/telephone_03.jpg,c1a77f9297eda2e33d133d6244c5ee3a
+38,TÃ©lÃ©phone Classique,electronique,1278.49,"TÃ©lÃ©phone Classique avec les derniÃ¨res technologies, garantie constructeur incluse.",,blanc,electronique/telephone_04.jpg,205478ea85ea5a3d3492a49c2a706193
+39,TÃ©lÃ©phone Design,electronique,154.99,TÃ©lÃ©phone Design avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,rouge,electronique/telephone_05.jpg,92aed15ba1a3895343e787194f0ed685
+40,TÃ©lÃ©phone Ã‰lÃ©gant,electronique,493.99,TÃ©lÃ©phone Ã‰lÃ©gant avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,gris,electronique/telephone_06jpg.jpg,9e328e43b45bee53daa30b33d8be132e
+41,TÃ©lÃ©phone Design,electronique,777.49,"TÃ©lÃ©phone Design haute performance, design moderne et ergonomique.",,rose,electronique/telephone_07jpg.jpg,58fca2e132f1517e2ad733660b4282c6
+42,TÃ©lÃ©phone Sport,electronique,424.49,TÃ©lÃ©phone Sport avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,jaune,electronique/telephone_08.jpg,3aaac83c580e9c78ba3fbc021fa9fa71
+43,TÃ©lÃ©phone Ã‰lÃ©gant,electronique,919.49,TÃ©lÃ©phone Ã‰lÃ©gant avec des fonctionnalitÃ©s avancÃ©es et une qualitÃ© exceptionnelle.,,bleu,electronique/telephone_09.jpg,fe4a823801e78eba767ea8de9f7c3832
+44,TÃ©lÃ©phone Moderne,electronique,1480.49,"TÃ©lÃ©phone Moderne haute performance, design moderne et ergonomique.",,vert,electronique/telephone_10.jpg,bd22a6d696e5da5d769ba46e79772550
+45,Jeu de construction Ã‰lÃ©gant,jouets,140.49,"Jeu de construction Ã‰lÃ©gant Ã©ducatif et amusant, parfait pour les enfants.",,blanc,jouets/construction_01.jpg,c7e088dff6cf7b848bf067976c7e9395
+46,Jeu de construction Ã‰lÃ©gant,jouets,77.49,"Jeu de construction Ã‰lÃ©gant de qualitÃ©, sÃ»r et durable pour des heures de jeu.",,gris,jouets/construction_02.jpg,8b4613f37b21f0b6a210195c44c9111d
+47,Jeu de construction Premium,jouets,89.99,"Jeu de construction Premium Ã©ducatif et amusant, parfait pour les enfants.",,gris,jouets/construction_03.jpg,0da28b2fc83dc9ee05c1534d480c378c
+48,Jeu de construction Casual,jouets,102.49,"Jeu de construction Casual avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,beige,jouets/construction_04.jpg,3afe2b3b7b3e5c33855b4e0aa843c21d
+49,Jeu de construction Design,jouets,77.49,"Jeu de construction Design avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,multicolore,jouets/construction_04.webp,617c0d570eb0de561f851520f6607384
+50,Jeu de construction Design,jouets,108.49,"Jeu de construction Design avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,noir,jouets/construction_05.jpg,c83f07e70826f632f74e5f31da21b848
+51,Peluche Moderne,jouets,149.99,"Peluche Moderne avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,vert,jouets/peluche_01.jpg,8a707f1cf7c85c02a44d609a95d19825
+52,Plushe Casual,jouets,145.99,"Plushe Casual de qualitÃ©, sÃ»r et durable pour des heures de jeu.",,,jouets/plushe_02.jpg,f9a5234ce0b478cec460fa8884bef97c
+53,Plushe Moderne,jouets,80.99,"Plushe Moderne avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,vert,jouets/plushe_03.jpg,4a8b43d406d140aff0daac24203a7a06
+54,Plushe Sport,jouets,88.49,"Plushe Sport Ã©ducatif et amusant, parfait pour les enfants.",,noir,jouets/plushe_04.jpg,49e64f1cba4796b9e6f93e6b0f555401
+55,Plushe Sport,jouets,24.99,"Plushe Sport avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,gris,jouets/plushe_05.jpg,fd879030a193e1d5ab239856c6f8ad91
+56,Plushe Moderne,jouets,10.99,"Plushe Moderne avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,gris,jouets/plushe_06.jpg,13b1e9fd5910efa5dc6fbda2b756a438
+57,Plushe Classique,jouets,94.49,"Plushe Classique Ã©ducatif et amusant, parfait pour les enfants.",,rose,jouets/plushe_07.jpg,1a8f79f09e224e66834b708f1ee11dc9
+58,PoupÃ©e Casual,jouets,78.99,"PoupÃ©e Casual de qualitÃ©, sÃ»r et durable pour des heures de jeu.",,jaune,jouets/poupee_01.jpg,150e7f99b192e528acdb3c43790fcccf
+59,PoupÃ©e Casual,jouets,115.49,"PoupÃ©e Casual Ã©ducatif et amusant, parfait pour les enfants.",,rouge,jouets/poupee_02.jpg,cd81dfd562a3850a772be72870a1c357
+60,PoupÃ©e Premium,jouets,86.99,"PoupÃ©e Premium Ã©ducatif et amusant, parfait pour les enfants.",,rouge,jouets/poupee_03.jpg,9a840046dca3cee0c701619ba3ab4a81
+61,PoupÃ©e Moderne,jouets,24.49,"PoupÃ©e Moderne Ã©ducatif et amusant, parfait pour les enfants.",,marron,jouets/poupee_04.jpg,6937fcb5d21234c76c4f6e055e698ac2
+62,PoupÃ©e Classique,jouets,75.99,"PoupÃ©e Classique avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,noir,jouets/poupee_05.jpg,4eead9e0e8c8ab20da4627f1d4398d9e
+63,Robot Premium,jouets,106.49,"Robot Premium de qualitÃ©, sÃ»r et durable pour des heures de jeu.",,gris,jouets/robot_01.jpg,f16bd9a1d7ca9ae6a061444c2b2a4b42
+64,Robot Design,jouets,124.99,"Robot Design de qualitÃ©, sÃ»r et durable pour des heures de jeu.",,gris,jouets/robot_02.jpg,9cb2b4f0bcd237ce11bd75a9768b221c
+65,Robot Moderne,jouets,85.99,"Robot Moderne avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,vert,jouets/robot_03.jpg,dda1082fa4e26b20d1a7c2ac3949f505
+66,Robot Classique,jouets,78.99,"Robot Classique Ã©ducatif et amusant, parfait pour les enfants.",,jaune,jouets/robot_04.jpg,6d7321d3ffe0a2c201b5b36198303294
+67,Robot Ã‰lÃ©gant,jouets,112.49,"Robot Ã‰lÃ©gant avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,noir,jouets/robot_05.jpg,69fee67a7d47889dd9e58fe211987606
+68,Voiture de jouet Sport,jouets,49.99,"Voiture de jouet Sport avec un design attractif, idÃ©al pour dÃ©velopper la crÃ©ativitÃ©.",,multicolore,jouets/voiture_01.jpg,9688f62a74df9bcf3d33e64321342a89
+69,Chaussures Design,mode/chaussures,66.99,Chaussures Design avec un design moderne et une semelle de qualitÃ©.,,noir,mode/chaussures/chaussure_02.jpg,dadf7f199509c29a41520fb8e7f76bc0
+70,Chaussures Moderne,mode/chaussures,234.49,Chaussures Moderne parfaites pour le sport et le quotidien.,,rose,mode/chaussures/chaussure_03.jpg,0135d0748cc98d26e531298499acf917
+71,Chaussures Sport,mode/chaussures,193.49,Chaussures Sport parfaites pour le sport et le quotidien.,,blanc,mode/chaussures/chaussure_04.jpg,f75711f9edc5328e2ea760cd2cc5d6bb
+72,Chaussures Design,mode/chaussures,153.49,Chaussures Design avec un design moderne et une semelle de qualitÃ©.,,marron,mode/chaussures/chaussure_05.jpg,193392c11bac54858ed8df300a993c6b
+73,Chaussures Sport,mode/chaussures,194.49,Chaussures Sport parfaites pour le sport et le quotidien.,,,mode/chaussures/chaussure_06.jpg,5f87045ac25cb7e2a2f9d51dedb1ce64
+74,Chaussures Casual,mode/chaussures,94.99,"Chaussures Casual confortables et durables, idÃ©ales pour un usage quotidien.",,jaune,mode/chaussures/chaussure_07.jpg,5e048ed4e96b8303e9eccba0f45cc053
+75,Chaussures Premium,mode/chaussures,193.99,Chaussures Premium parfaites pour le sport et le quotidien.,,,mode/chaussures/chaussure_08.jpg,4d78decc492f1fc1e09646a20a4f2467
+76,Chaussures Moderne,mode/chaussures,78.49,"Chaussures Moderne confortables et durables, idÃ©ales pour un usage quotidien.",,rouge,mode/chaussures/chaussure_09.jpg,15238648997ccd78780de4b568d5bacd
+77,Chaussures Premium,mode/chaussures,232.99,"Chaussures Premium confortables et durables, idÃ©ales pour un usage quotidien.",,jaune,mode/chaussures/chaussure_10.jpg,e99f16fd8e651f4a3e3b8b376ed1ee06
+78,Chausure Sport,mode/chaussures,184.49,Chausure Sport avec un design moderne et une semelle de qualitÃ©.,,jaune,mode/chaussures/chausure_01.jpg,c065d9f79d34c38a3f0fa630b8b23c53
+79,Sac Classique,mode/sacs,305.99,"Sac Classique fabriquÃ© avec des matÃ©riaux rÃ©sistants, parfait pour tous les jours.",,gris,mode/sacs/sac_01.jpg,90c566f7b62432a0d48da6dfd345d28d
+80,Sac Classique,mode/sacs,67.99,"Sac Classique avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,marron,mode/sacs/sac_02.jpg,b1d62a09e9407672937a1c1d4add5308
+81,Sac Ã‰lÃ©gant,mode/sacs,377.99,"Sac Ã‰lÃ©gant avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,jaune,mode/sacs/sac_03.jpg,6ba6336245c5a6fea68360bfaa519608
+82,Sac Design,mode/sacs,129.99,"Sac Design fabriquÃ© avec des matÃ©riaux rÃ©sistants, parfait pour tous les jours.",,noir,mode/sacs/sac_04.jpg,82085966b472000ae84482349234452d
+83,Sac Casual,mode/sacs,196.99,"Sac Casual avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,bleu,mode/sacs/sac_05.jpg,08acdadd880ab1bb47335a6a72d90c77
+84,Sac Casual,mode/sacs,171.99,"Sac Casual avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,rouge,mode/sacs/sac_06.jpg,b94ab3ef9ac4b09949a919d7d363fdce
+85,Sac Casual,mode/sacs,179.99,"Sac Casual fabriquÃ© avec des matÃ©riaux rÃ©sistants, parfait pour tous les jours.",,marron,mode/sacs/sac_dos_01.jpg,5c4941f5b482f1aab4a013eb51fc9038
+86,Sac Moderne,mode/sacs,261.49,"Sac Moderne fabriquÃ© avec des matÃ©riaux rÃ©sistants, parfait pour tous les jours.",,multicolore,mode/sacs/sac_dos_02.jpg,86136db92cc998c8d8a909d90133c184
+87,Sac Moderne,mode/sacs,60.99,"Sac Moderne avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,rose,mode/sacs/sac_dos_03.jpg,d2f6b3ee9852e19aa4ed96af1a26a2d7
+88,Sac Casual,mode/sacs,243.49,"Sac Casual avec plusieurs compartiments, idÃ©al pour transporter vos affaires.",,rouge,mode/sacs/sac_dos_04.jpg,26648e19b65bd901257fca51f6538d8f
+89,Sac Design,mode/sacs,92.99,"Sac Design fabriquÃ© avec des matÃ©riaux rÃ©sistants, parfait pour tous les jours.",,beige,mode/sacs/sac_dos_05.jpg,ba0bb0d294370dee93f05b0ac520ba6f
+90,Jeans Moderne,mode/vetements,150.99,"Jeans Moderne parfait pour toutes les occasions, design moderne et Ã©lÃ©gant.",,marron,mode/vetements/jeans_01.jpg,878e6f7172b64d6ac974ca2863841010
+91,Jeans Design,mode/vetements,141.99,"Jeans Design fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,marron,mode/vetements/jeans_02.jpg,58d028ac0c188f8ae1ebf186c4666fe6
+92,Jeans Ã‰lÃ©gant,mode/vetements,195.99,"Jeans Ã‰lÃ©gant fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,vert,mode/vetements/jeans_03.jpg,7a5e0d0d5902b99cf1a38d401ded0a15
+93,Jeans Premium,mode/vetements,69.99,"Jeans Premium fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,marron,mode/vetements/jeans_04.jpg,81bfb76b4c363f19f2ebb0e3993bf685
+94,Jeans Premium,mode/vetements,133.99,"Jeans Premium parfait pour toutes les occasions, design moderne et Ã©lÃ©gant.",,,mode/vetements/jeans_05.jpg,3857d6ae75b743a68cc9969290c52c0e
+95,Jeans Premium,mode/vetements,115.99,"Jeans Premium fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,multicolore,mode/vetements/jeans_06.jpg,836db2d36a57a173aa51296453027380
+96,Pull Casual,mode/vetements,174.49,"Pull Casual de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,vert,mode/vetements/pull_01.jpg,e5a7f33a0017237a837ffeb19fbafca5
+97,Pull Sport,mode/vetements,66.49,"Pull Sport de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,multicolore,mode/vetements/pull_col_montant_01.jpg,30d5711d438839d485bf5502f7fa7042
+98,Pull Casual,mode/vetements,73.49,"Pull Casual de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,blanc,mode/vetements/pull_col_montant_02.jpg,67b1a032c36368852d3559593b241058
+99,Pull Sport,mode/vetements,152.99,"Pull Sport fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,vert,mode/vetements/pull_col_montant_03.jpg,014e23a9696eff4a33c82ae2b4e8bbba
+100,Pull Casual,mode/vetements,86.49,"Pull Casual de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,vert,mode/vetements/pull_col_montant_04.jpg,1e46266df2362c0d12d8835b2655c77b
+101,Pull Ã‰lÃ©gant,mode/vetements,151.49,"Pull Ã‰lÃ©gant de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,noir,mode/vetements/pull_col_v_01.jpg,0bc72e1a5d1835067fa4137ad084cc1c
+102,Pull Design,mode/vetements,169.49,"Pull Design de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,marron,mode/vetements/pull_col_v_02.jpg,fa27a7c73d232fbecfe457ba88ee60d8
+103,Pull Moderne,mode/vetements,143.49,"Pull Moderne fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,marron,mode/vetements/pull_col_v_03.jpg,4ea5140747f6495c91fb8c8dae8c571b
+104,Pull Ã‰lÃ©gant,mode/vetements,48.49,"Pull Ã‰lÃ©gant de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,multicolore,mode/vetements/pull_col_v_04.jpg,9e2a4df4d59add3dc0fa24ce3bd16e33
+105,Robe Premium,mode/vetements,75.49,"Robe Premium fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,blanc,mode/vetements/robe_01.jpg,4d2636ea928c010d1a844ea7f65f6f9f
+106,Robe Sport,mode/vetements,67.99,"Robe Sport fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,marron,mode/vetements/robe_02.jpg,0a6083d840cc84ddd973e7bc21ac6489
+107,Robe Premium,mode/vetements,59.49,"Robe Premium parfait pour toutes les occasions, design moderne et Ã©lÃ©gant.",,beige,mode/vetements/robe_03.jpg,2916a5fe0c4131c04b8e1986c466b9fb
+108,Robe Moderne,mode/vetements,100.99,"Robe Moderne fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,bleu,mode/vetements/robe_04.jpg,29b47ae99f47d6c559024c07dd1100b0
+109,Robe Design,mode/vetements,73.49,"Robe Design fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,rose,mode/vetements/robe_05.webp,6a6d1dc752e5fe5604d09541a1e17944
+110,Robe Classique,mode/vetements,52.99,"Robe Classique fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,rouge,mode/vetements/robe_06.webp,b0d825eb8809c530b687a272a41817bb
+111,Robe Moderne,mode/vetements,117.49,"Robe Moderne de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,gris,mode/vetements/robe_07.webp,3cfb6429d7ad355881c2709a558124b2
+112,T Casual,mode/vetements,60.99,"T Casual de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,gris,mode/vetements/t-shirt_01.jpg,7871b61c4779c21d39d505643d057c49
+113,T Moderne,mode/vetements,63.49,"T Moderne fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,jaune,mode/vetements/t-shirt_02.jpg,bca59e42716765585ef1d80b293e387d
+114,T Sport,mode/vetements,48.99,"T Sport fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,jaune,mode/vetements/t-shirt_03.jpg,96f14e5d21db37f5f996444754e03887
+115,T Classique,mode/vetements,145.99,"T Classique de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,jaune,mode/vetements/t-shirt_04.jpg,181110775302faa214ea77fd0217af56
+116,T Ã‰lÃ©gant,mode/vetements,139.99,"T Ã‰lÃ©gant fabriquÃ© avec des matÃ©riaux de qualitÃ©, coupe impeccable.",,jaune,mode/vetements/t-shirt_05.jpg,d6038d4f9c909e5cec5fe5ae1069b28a
+117,T Sport,mode/vetements,111.99,"T Sport de qualitÃ© supÃ©rieure, confortable et stylÃ©.",,jaune,mode/vetements/t-shirt_06.jpg,0f2009c5f6d6b266ec7e764b377be6a9

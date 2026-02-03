@@ -1,0 +1,18 @@
+COMMANDES POUR REDEMARRER LE SERVEUR BACKEND
+============================================
+
+1. Arrêter le serveur (si en cours d'exécution):
+   - Appuyez sur Ctrl+C dans le terminal où le serveur tourne
+   - OU fermez le terminal
+
+2. Redémarrer le serveur:
+   cd backend
+   .venv\Scripts\python.exe app.py
+
+OU depuis la racine du projet:
+   cd C:\Users\espacegamers\ecommerce-cbir-project\backend
+   .venv\Scripts\python.exe app.py
+
+Le serveur devrait démarrer et charger automatiquement les features depuis:
+   data/product_features_resnet50.npy
+
